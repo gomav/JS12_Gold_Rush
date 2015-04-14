@@ -1,0 +1,14 @@
+.map{
+  position: absolute;
+  width: 50%;
+  heigh: 50%;
+}
+
+.container{
+  position: relative;
+}
+
+.pin{
+  position: absolute;
+  margin: -37px 0 0 -23px;
+}
